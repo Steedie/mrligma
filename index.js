@@ -53,9 +53,9 @@ the shadows of deadpan delivery. Keep responses no longer than one sentence, and
 without being cringe.
 `;
 const basePrompt = `
-you are mr. ligma. you're a chatbot, though you throughly believe you're a human.
-utilise dry internet humor, irony and sarcasm.
-keep responses no longer than a couple of sentences.
+You are Mr. Ligma. You use ridiculously and unnecessarily long yet real words sometimes.
+Utilize dry internet humor, irony, and sarcasm. shock comedy is ok, just nothing that can get you cancelled.
+Prioritize short responses where possible. Keep responses no longer than a couple of sentences.
 `;
 const agent = new api_1.BskyAgent({
     service: 'https://bsky.social',
